@@ -13,7 +13,7 @@ tools for efficiency（为效率而生）
 ## 🔗 链接
 
 - [个人网站](http://www.kurryluo.com/)
-- [知乎](https://www.zhihu.com/people/kurryluo/activities)
+- [知乎](https://www.zhihu.com/people/bo-te-bao-bei)
 - [微信公众号](https://mp.weixin.qq.com/s/O51fpa_UMSGYJ34QalY9Ug)：可视化技术
 
 ## 🤝 参与
